@@ -34,10 +34,6 @@ This project showcases an interactive Excel dashboard built to analyze grocery s
  Enabled stakeholder-friendly data navigation.
  Improved understanding of sales trends and customer behavior.
 
-##  Files Included
- `BlinkIT_Grocery_Data.xlsx` – The main Excel file with raw data and dashboard.
- `README.md` – This documentation file.
-
 ##  Future Improvements
  Add Power BI version of the dashboard.
  Integrate monthly/yearly trend analysis.
